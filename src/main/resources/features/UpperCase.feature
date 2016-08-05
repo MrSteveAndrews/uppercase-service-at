@@ -1,4 +1,4 @@
-Feature: Transform string values to upper case
+Feature: Transform string values to upper case using the REST service API
 
   Scenario: Transform lower case strings to upper case
     Given the upper case service is running

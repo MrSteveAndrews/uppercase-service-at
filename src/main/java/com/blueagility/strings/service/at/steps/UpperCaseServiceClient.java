@@ -11,7 +11,7 @@ import java.util.Map;
  */
 public class UpperCaseServiceClient {
 
-    private static final String URI_OPERATION = "/upperCase/";
+    private static final String URI_OPERATION = "/uppercase-service/";
     private static final String INPUT = "{input}";
     private static String URI_HOST = null;
 
@@ -56,3 +56,4 @@ public class UpperCaseServiceClient {
     }
 
 }
+
